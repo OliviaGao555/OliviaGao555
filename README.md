@@ -1,4 +1,7 @@
-## Hi there 👋
+## :3
+Vanier student tryna get to Uni
+Currently working on my portfolio (art based + small percentage of cs projects)
+Aiming for Computer Science-Computation Arts
 
 <!--
 **OliviaGao555/OliviaGao555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
