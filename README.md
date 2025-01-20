@@ -1,6 +1,8 @@
 ## :3
-Vanier student tryna get to Uni\n
-Currently working on my portfolio (art based + small percentage of cs projects)\n
+Vanier student tryna get to Uni
+
+Currently working on my portfolio (art based + small percentage of cs projects)
+
 Aiming for Computer Science-Computation Arts
 
 <!--
