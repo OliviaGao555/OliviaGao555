@@ -1,9 +1,14 @@
 ## :3
-Vanier student tryna get to Uni
+Concordia first year undergrad student in Computer Science - Computation Arts
 
-Currently working on my portfolio (art based + small percentage of cs projects)
+Currently working on my portfolio (art based + cs projects)
+I like making games!
+Open for collabs: I can draw all visual elements for your projects~
+Experienced with making Java and HTML mini games with simple UI and 2D interactions
 
-Aiming for Computer Science-Computation Arts
+Contact through Instagram: @bbq_ov_yzdyg
+Email: yzdyg2018@icloud.com
+
 
 <!--
 **OliviaGao555/OliviaGao555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
